@@ -25,11 +25,20 @@ I'm a **full-stack builder** who ships products end-to-end — from Swift menu-b
 <tr>
 <td width="50%" valign="top">
 
+### 🛠️ [CodeCollector](https://github.com/pranaysuyash/codecollector) ⭐ 41
+CLI tool to traverse directories or clone GitHub repos and **analyze codebases** — secret detection, code metrics (LOC, complexity), linting, formatting, and security misconfiguration checks. All on in-memory copies; originals untouched.  
+`Python` `CLI` `Security` `Code Analysis` `MIT`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🎙️ [EchoPanel](https://github.com/pranaysuyash/EchoPanel)
 macOS menu-bar app that captures system audio / mic, streams PCM to a local backend, and generates **live transcripts + entity cards** in real time.  
 `Swift` `Python` `FastAPI` `Whisper` `NLP`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🗂️ [MetaExtract](https://github.com/pranaysuyash/metaextract)
@@ -37,8 +46,6 @@ Extracts **45,000+ metadata fields** from any file type — images, video, docum
 `Python` `TypeScript` `React` `FastAPI` `PostgreSQL`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 👁️ [SceneGuide](https://github.com/pranaysuyash/SceneGuide)
@@ -46,6 +53,8 @@ Computer-vision app that **guides the visually impaired and elderly** through re
 `TypeScript` `React` `Gemini API` `Computer Vision`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ♻️ [Waste Segregation App](https://github.com/pranaysuyash/Waste-Segregation-App)
@@ -53,8 +62,6 @@ Cross-platform Flutter app for **AI-powered waste identification** and recycling
 `Flutter` `Dart` `Firebase` `AI/ML`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🤖 [Agents Platform](https://github.com/pranaysuyash/agents)
@@ -62,6 +69,8 @@ Local-first **multi-agent orchestration platform** — protocol-first, human-gat
 `TypeScript` `Multi-Agent` `LLM Orchestration`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🗺️ [Bas 5 Minute](https://github.com/pranaysuyash/bas5minute)
@@ -69,8 +78,6 @@ Isochrone travel-time maps for any location in India with **AI-generated Hinglis
 `TypeScript` `Mapping` `OpenRouteService` `Anthropic`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🖥️ [TabPilot](https://github.com/pranaysuyash/tabpilot)
@@ -78,11 +85,20 @@ Native **macOS Swift app** for managing and organizing browser tabs — built wi
 `Swift` `SwiftUI` `macOS`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 [Robonomics](https://github.com/pranaysuyash/robonomics)
 Tracks the **real cost and capability of every robot** trying to take your job — or save your business. Real prices, real limitations, zero vaporware.  
 `TypeScript` `React` `Data Viz`
+
+</td>
+<td width="50%" valign="top">
+
+### ✍️ [Sig-Ext](https://github.com/pranaysuyash/sig_ext_fastapi_react) ⭐ 2
+Desktop-first **signature extraction tool** with FastAPI backend — PDF signing with audit logging, EXIF auto-rotation, color customization, transparent PNG export. Privacy-first: all processing runs locally.  
+`Python` `FastAPI` `PySide6` `OpenCV` `PostgreSQL`
 
 </td>
 </tr>
@@ -96,9 +112,9 @@ Modular Python AI **photo workstation** — face recognition, semantic search, c
 </td>
 <td width="50%" valign="top">
 
-### ✍️ [Sig-Ext](https://github.com/pranaysuyash/sig-ext)
-Streamlit app for **extracting and colorizing signatures** from scanned images — threshold tuning, color picker, and instant download.  
-`Python` `Streamlit` `OpenCV` `Image Processing`
+### 🎫 [Caption Art](https://github.com/pranaysuyash/caption-art)
+AI-powered image caption generator with **neo-brutalism design** — bold borders, vibrant palette, OpenAI-backed creative suggestions.  
+`JavaScript` `CSS` `OpenAI` `Neo-Brutalism`
 
 </td>
 </tr>
@@ -150,14 +166,21 @@ Streamlit app for **extracting and colorizing signatures** from scanned images �
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=pranaysuyash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaysuyash&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=pranaysuyash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=21600" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaysuyash&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=21600" />
 
 </div>
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pranaysuyash&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranaysuyash&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -178,6 +201,11 @@ Streamlit app for **extracting and colorizing signatures** from scanned images �
 
 [![Email](https://img.shields.io/badge/pranay.suyash%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pranay.suyash@gmail.com)
 [![GitHub](https://img.shields.io/badge/@pranaysuyash-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pranaysuyash)
+[![X](https://img.shields.io/badge/@pranaysuyash-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/pranaysuyash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranaysuyash-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranaysuyash)
+[![Medium](https://img.shields.io/badge/Medium-@pranaysuyash-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@pranaysuyash)
+[![Gumroad](https://img.shields.io/badge/Gumroad-pranaysuyash-FF90E8?style=flat-square&logo=gumroad&logoColor=black)](https://gumroad.com/pranaysuyash)
+[![Buy%20Me%20a%20Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-pranaysuyash-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/pranaysuyash)
 [![Portfolio](https://img.shields.io/badge/Portfolio-pranaysuyash.github.io-6EE7F7?style=flat-square&logo=githubpages&logoColor=black)](https://pranaysuyash.github.io)
 
 </div>
