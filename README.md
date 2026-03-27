@@ -187,9 +187,9 @@ AI-powered image caption generator with **neo-brutalism design** — bold border
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pranaysuyash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=21600" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaysuyash&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=21600" />
+[![Followers](https://img.shields.io/github/followers/pranaysuyash?style=for-the-badge&logo=github&label=Followers)](https://github.com/pranaysuyash?tab=followers)
+[![Total Stars](https://img.shields.io/github/stars/pranaysuyash?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Total%20Repo%20Stars)](https://github.com/pranaysuyash?tab=repositories)
+[![CodeCollector Stars](https://img.shields.io/github/stars/pranaysuyash/codecollector?style=for-the-badge&logo=github&label=CodeCollector%20Stars)](https://github.com/pranaysuyash/codecollector)
 
 </div>
 
