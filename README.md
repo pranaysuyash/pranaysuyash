@@ -19,6 +19,27 @@ I'm a **full-stack builder** who ships products end-to-end — from Swift menu-b
 
 ---
 
+## ⚡ At a Glance
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-@pranaysuyash-181717?style=for-the-badge&logo=github)](https://github.com/pranaysuyash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranaysuyash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranaysuyash)
+[![X](https://img.shields.io/badge/X-@pranaysuyash-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pranaysuyash)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pranaysuyash.github.io-6EE7F7?style=for-the-badge&logo=githubpages&logoColor=black)](https://pranaysuyash.github.io)
+
+</div>
+
+---
+
+## 🏆 Open Source Highlights
+
+- **[CodeCollector](https://github.com/pranaysuyash/codecollector)** — ⭐ **41 stars** • CLI for codebase collection + analysis (security, metrics, linting)
+- **[Sig-Ext (FastAPI + Desktop)](https://github.com/pranaysuyash/sig_ext_fastapi_react)** — ⭐ **2 stars** • local-first signature extraction + PDF signing workflow
+- Building in public across AI tooling, developer automation, and macOS-native products.
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
