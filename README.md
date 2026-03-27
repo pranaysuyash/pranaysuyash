@@ -199,14 +199,26 @@ AI-powered image caption generator with **neo-brutalism design** — bold border
 
 <div align="center">
 
+<b>Best places to reach me 👇</b><br/><br/>
+
+<b>Work & collaboration</b><br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranaysuyash-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranaysuyash)
 [![Email](https://img.shields.io/badge/pranay.suyash%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pranay.suyash@gmail.com)
 [![GitHub](https://img.shields.io/badge/@pranaysuyash-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pranaysuyash)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pranaysuyash.github.io-6EE7F7?style=flat-square&logo=githubpages&logoColor=black)](https://pranaysuyash.github.io)
+
+<br/><br/>
+<b>Content & updates</b><br/>
 [![X](https://img.shields.io/badge/@pranaysuyash-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/pranaysuyash)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranaysuyash-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranaysuyash)
 [![Medium](https://img.shields.io/badge/Medium-@pranaysuyash-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@pranaysuyash)
+
+<br/><br/>
+<b>Products & support</b><br/>
 [![Gumroad](https://img.shields.io/badge/Gumroad-pranaysuyash-FF90E8?style=flat-square&logo=gumroad&logoColor=black)](https://gumroad.com/pranaysuyash)
 [![Buy%20Me%20a%20Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-pranaysuyash-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/pranaysuyash)
-[![Portfolio](https://img.shields.io/badge/Portfolio-pranaysuyash.github.io-6EE7F7?style=flat-square&logo=githubpages&logoColor=black)](https://pranaysuyash.github.io)
+
+<br/><br/>
+<i>More links coming soon.</i>
 
 </div>
 
